@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Batuhan KARAHAN</h1>
 <h3 align="center">I work as a Front-End Developer, I live in Turkey.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
 
-https://cdn.dribbble.com/users/278287/screenshots/1343921/orchestrate.gif
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzmusician&label=Profile%20views&color=0e75b6&style=flat" alt="hzmusician" /> </p>
 

@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img align="right" alt="Coding" width="40%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 <h1 align="center">Hi 👋, I'm Batuhan KARAHAN</h1>
 <h3 align="center">I work as a Front-End Developer, I live in Turkey.</h3>
 

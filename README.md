@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Batuhan KARAHAN</h1>
 <h3 align="center">I work as a Front-End Developer, I live in Turkey.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
+<img align="center" alt="Coding" width="100%" src="https://www.trio.dev/hubfs/Imported_Blog_Media/dbc631c76245baabe08c31d016a94de2-2.jpg">
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hzmusician&label=Profile%20views&color=0e75b6&style=flat" alt="hzmusician" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hzmusician&label=Profile%20views&color=0e75b6&style=flat" alt="hzmusician" /> </p>
-
-<p align="left"> <a href="https://twitter.com/wodoomsc" target="blank"><img src="https://img.shields.io/twitter/follow/wodoomsc?logo=twitter&style=for-the-badge" alt="wodoomsc" /></a> </p>
+<p align="center"> <a href="https://twitter.com/wodoomsc" target="blank"><img src="https://img.shields.io/twitter/follow/wodoomsc?logo=twitter&style=for-the-badge" alt="wodoomsc" /></a> </p>
 
 - 🔭 I’m currently working on [Starbucks-Alternate-Website](https://github.com/hzmusician/Starbucks-Alternate-Webpage)
 

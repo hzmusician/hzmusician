@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://twitter.com/wodoomsc" target="blank"><img src="https://img.shields.io/twitter/follow/wodoomsc?logo=twitter&style=for-the-badge" alt="wodoomsc" /></a> </p>
 
-- 🔭 I’m currently working on [{ Ba.Ka }] <a href="(https://www.batuhankarahan.com)" target="blank">
+- 🔭 I’m currently working on [{ Ba.Ka }] <a href="https://www.batuhankarahan.com" target="blank">
 
 - 🌱 I’m currently learning **JavaScript & Vue.js**
 

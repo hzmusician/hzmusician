@@ -6,9 +6,9 @@
 
 <p align="center"> <a href="https://twitter.com/wodoomsc" target="blank"><img src="https://img.shields.io/twitter/follow/wodoomsc?logo=twitter&style=for-the-badge" alt="wodoomsc" /></a> </p>
 
-- 🔭 I’m currently working on [{ Ba.Ka }](https://www.batuhankarahan.com)
+- 🔭 I’m currently working on [{ Ba.Ka }](https://karahan.dev)
 
-- 🌱 I’m currently learning **JavaScript & Vue.js**
+- 🌱 I’m currently learning **React & Jquery**
 
 - 🤝 I’m looking for help with **How to work in a software company?**
 
